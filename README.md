@@ -5,6 +5,7 @@ Note that this is an "alpha" version of this app.  I expect to make a lot of cha
 Welcome to WordMaker for VRToolbox!
 
 Use this to create labels or other 3d text in VR.
+
 To install, just unzip to your directory of choice and run the exe.  I recommend making a shortcut to the exe on your desktop.
 The first time that you run it, you will need to write the Letter Objects to the VRToolbox Props directory.    At this moment, you will need to go to the color/font page to set them, but the next version will have prompts.
  This may change as the devs add a real alphabet.
