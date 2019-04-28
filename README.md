@@ -6,12 +6,11 @@ Welcome to WordMaker for VRToolbox!
 
 Use this to create labels or other 3d text in VR.
 
-To install, just unzip to your directory of choice and run the exe.  I recommend making a shortcut to the exe on your desktop.
-The first time that you run it, you will need to write the Letter Objects to the VRToolbox Props directory.    At this moment, you will need to go to the color/font page to set them, but the next version will have prompts.
- This may change as the devs add a real alphabet.
+To install, it unzips into a directory called WordMaker: just unzip to your directory or drive of choice and run the exe.  I recommend making a shortcut to the exe on your desktop.
+The first time that you run it, you will need to write the Letter Objects to the VRToolbox Props directory.  It should detect that you don't have the fonts installed and offer to copy them for you. 
 
 You can add your text to the current Session.room if VRToolbox is NOT running, or write to a room that I call 'Words.Room' if it is.
-You can add as much as you'd like, but each time that you press the 'Write' button, it starts your text at the beginning coordinates.  You will need to drag the strings off of each other in VR*.
+You can add as much as you'd like, but each time that you press the 'Write' button, it starts your text at the beginning coordinates.  You will need to drag the strings off of each other in VR.
 
 To see your Words:
 
@@ -41,9 +40,7 @@ All values need to be in '0.0' format.  Meaning that there must always be a numb
 
 Letter spacing needed depends on the font being used.  These are what I use; they'll get you close.  Feel free to experiment. 
 
-Archivo Black:  x=  0.3,  y= 0.7
-Cambria:   x= 0.26,  y= 0.7
-Comic:   x=   1.0,  y=1.4
+Archivo Black:  x=  0.3,  y= 0.7  /  Cambria:   x= 0.26,  y= 0.7  /  Comic:   x=   1.0,  y=1.4
 
 Letter spacing, once written, stays with those Words no matter what font or color that you change to.  If you have Cambria Words and change to Comic font, the spacing will be off.  You will need to re-write your words using different spacing.  In time, I will probably modify the letters so that all fonts are the same size, but it's tedious work at best and I'm still waiting to see what the dev's will offer.  I'd like to have "native" support for their stuff first.
 
