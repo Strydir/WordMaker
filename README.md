@@ -48,4 +48,7 @@ Certain symbols are "off limits" at this time.  They are symbols used in the pro
 
 Certain symbols were not included with the Archivo_Black font used:  I've subbed in Cambria versions.
 
-I've added entries from the  "WingDings" and WebDings fonts!  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see prompts) Includes a Happy Face, pointers and a few other things.  I plan to add more, including general purpose lines. You can use this app to change their color.  Keep in mind that you need to restart VRToolbox to see the changes.
+I've added entries from the  "WingDings" and "WebDings" fonts.  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see prompts) Includes a Happy Face, pointers and a few other things.  I plan to add more, including general purpose lines. You can use this app to change their color.  Keep in mind that you need to restart VRToolbox to see the changes.
+
+Keep in mind that you need to restart VRToolbox to see any changes to color or fonts!
+
