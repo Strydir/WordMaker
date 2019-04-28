@@ -48,7 +48,7 @@ Comic:   x=   1.0,  y=1.4
 
 Letter spacing, once written, stays with those Words no matter what font or color that you change to.  If you have Cambria Words and change to Comic font, the spacing will be off.  You will need to re-write your words using different spacing.  In time, I will probably modify the letters so that all fonts are the same size, but it's tedious work at best and I'm still waiting to see what the dev's will offer.  I'd like to have "native" support for their stuff first.
 
-Certain symbols are "off limits" at this time.  They are symbols used in the programming language and I need to code those for asc characters.  These are the Slash, Backslash, single and double quotes.   I'll fix this soon.  Atm, they are simply missing.  There are a few others that I did not code, yet.  Like the caret: ^    I'll add them if there are any requests for them. 
+Certain symbols are missing: (caret: ^) (double quotes: ") (tilde: ~) (pipe: |).  I'll add them if there are any requests for them. 
 
 Certain symbols were not included with the Archivo_Black font used:  I've subbed in Cambria versions.
 
