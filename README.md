@@ -40,7 +40,7 @@ All values need to be in '0.0' format.  Meaning that there must always be a numb
 
 Letter spacing needed depends on the font being used.  These are what I use; they'll get you close.  Feel free to experiment. 
 
-Archivo Black:  x=  0.3,  y= 0.7  /  Cambria:   x= 0.26,  y= 0.7  /  Comic:   x=   1.0,  y=1.4
+Archivo Black:  x=  0.3,  y= 0.7    Cambria:   x= 0.26,  y= 0.7    Comic:   x=   1.0,  y=1.4
 
 Letter spacing, once written, stays with those Words no matter what font or color that you change to.  If you have Cambria Words and change to Comic font, the spacing will be off.  You will need to re-write your words using different spacing.  In time, I will probably modify the letters so that all fonts are the same size, but it's tedious work at best and I'm still waiting to see what the dev's will offer.  I'd like to have "native" support for their stuff first.
 
@@ -48,7 +48,8 @@ Certain symbols are "off limits" at this time.  They are symbols used in the pro
 
 Certain symbols were not included with the Archivo_Black font used:  I've subbed in Cambria versions.
 
-I've added entries from the  "WingDings" and "WebDings" fonts.  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see prompts) Includes a Happy Face, pointers and a few other things.  I plan to add more, including general purpose lines. You can use this app to change their color.  Keep in mind that you need to restart VRToolbox to see the changes.
+I've added entries from the  "WingDings" and "WebDings" fonts.  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see prompts) Includes a Happy Face, pointers and a few other things.  I plan to add more, including general purpose lines. You can use this app to change their color. 
+
 
 Keep in mind that you need to restart VRToolbox to see any changes to color or fonts!
 
