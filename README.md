@@ -2,6 +2,8 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
+NOTE:  in the Archivo_Black fonts, the b, k, q, w, and z are incorrectly scaled but I didn't find out until halfway thru my latest update so it will have to wait until I've got it done.  Should be done a little later this week.
+
 Welcome to WordMaker for VRToolbox!
 
 Use this to create labels or other 3d text in VR.
