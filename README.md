@@ -2,7 +2,6 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
-NOTE:  in the Archivo_Black fonts, the b, k, q, w, and z are incorrectly scaled but I didn't find out until halfway thru my latest update so it will have to wait until I've got it done.  Should be done a little later this week.
 
 Welcome to WordMaker for VRToolbox!
 
@@ -31,6 +30,7 @@ To see your Words:
 Once in VR with your new Words, you can resize or reposition them by grabbing the first character and using the ingame thumbpad buttons.						
 If VRToolbox is NOT running, you can write directly to the Session Room so that your Words will be there the next time that you enter VRToolbox.
 
+I've added a rudimentary Glossary text file called 'RudimentaryGlossary' to help explain what the values are and what they do, but you'll need to experiment.  Don't forget to upload some screen shots of what you do!
 
 
 Notes and limitations:  
@@ -40,13 +40,7 @@ Letter objects are 'Universal'.  Any changes to 'font' or color will be applied 
 
 All values need to be in '0.0' format.  Meaning that there must always be a number on both sides of the decimal point.  I'll be cleaning this up soon.
 
-Letter spacing needed depends on the font being used.  These are what I use; they'll get you close.  Feel free to experiment. 
-
-Archivo Black:  x=  0.3,  y= 0.7    
-
-Cambria:   x= 0.26,  y= 0.7    
-
-Comic:   x=   1.0,  y=1.4
+Letter spacing needed depends on the font being used.  I've included a text file called 'Letter Spacing' that has the values that I've used.  They'll get you close but you'll probably want to tweak them.
 
 Letter spacing, once written, stays with those Words no matter what font or color that you change to.  If you have Cambria Words and change to Comic font, the spacing will be off.  You will need to re-write your words using different spacing.  In time, I will probably modify the letters so that all fonts are the same size, but it's tedious work at best and I'm still waiting to see what the dev's will offer.  I'd like to have "native" support for their stuff first.
 
