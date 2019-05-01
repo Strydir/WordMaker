@@ -2,6 +2,7 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
+Note: the devs are adding an alphabet including some new characters and WingDings: support for the new characters and WingDings is coming asap so you might want to just wait for it.  Unless you want to do some bug testing for me: haven't had time to properly test my update, yet...  Gotta get some screenshots out, too!
 
 Welcome to WordMaker for VRToolbox!
 
