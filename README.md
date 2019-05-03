@@ -2,7 +2,10 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
-Note: the devs are adding an alphabet including some new characters and WingDings: support for the new characters and WingDings is coming asap so you might want to just wait for it.  Unless you want to do some bug testing for me: haven't had time to properly test my update, yet...  Gotta get some screenshots out, too!
+Note: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder.  WingDings are unchanged.
+     If you used an older version and need help removing the letters and symbols from your props folder, post in the Steam discussion        page and I'll make up a "remover" program.  https://steamcommunity.com/app/488040/discussions/
+     
+     If you are comfortable using Windows Explorer, navigate to the VRToolbox props directory and remove all folders starting with "Letters_" and all folders starting with "Symbols_".  You can verify that your new Letters and Symbols are now in a folder called "Labels" in the props directory.
 
 Welcome to WordMaker for VRToolbox!
 
