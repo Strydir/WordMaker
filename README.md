@@ -6,6 +6,8 @@ Note: the Letters and Symbols have been moved to a subdirectory to keep from clu
      If you used an older version and need help removing the letters and symbols from your props folder, post in the Steam discussion        page and I'll make up a "remover" program.  https://steamcommunity.com/app/488040/discussions/ 
      
  If you are comfortable using Windows Explorer, navigate to the VRToolbox props directory and remove all folders starting with "Letters_" and all folders starting with "Symbols_".  You can verify that your new Letters and Symbols are now in a folder called "Labels" in the props directory.
+----------------------------
+
 
 Welcome to WordMaker for VRToolbox!
 
