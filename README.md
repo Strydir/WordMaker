@@ -4,7 +4,7 @@ Note that this is an "alpha" version of this app.  I expect to make a lot of cha
 
 NOTE: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder, and the file structure of all Letters, Symbols and WingDings has changed!
 
-If you used an older version of this program, you need to remove all fonts and WingDings.  I have provided a file to do this for you called 'MakerCleaner.exe'.  Download it and run it from anywhere.  It will ask you where your VRToolbox directory is and prompt you for the different versions to delete.  Feel free to do so if you're not sure: if the files are not there it moves on.  
+If you've used an older version of this program, you need to remove all Fonts and WingDings.  I have provided a file to do this for you called 'MakerCleaner.exe'.  Download it and run it from anywhere.  It will ask you where your VRToolbox directory is and prompt you for the different versions to delete.  Feel free to do so if you're not sure: if the files are not there then it moves on.  
 
 .For pre-ver3.0, it deletes all files and folders, under the props folder, named Letters_* or Symbols_* .
 
