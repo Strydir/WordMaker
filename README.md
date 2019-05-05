@@ -2,10 +2,25 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
-Note: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder.  WingDings are unchanged.
-     If you used an older version and need help removing the letters and symbols from your props folder, post in the Steam discussion        page and I'll make up a "remover" program.  https://steamcommunity.com/app/488040/discussions/ 
+NOTE: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder, and the structure of all Letters, Symbols and WingDings has changed!
+
+If you used an older version of this program, you need to remove all fonts and WingDings.  I have provided a file to do this for you called 'MakerCleaner.exe'.  Download it and run it from anywhere.  It will ask you where your VRToolbox directory is and prompt you for the different versions to delete.  Feel free to do so if you're not sure: if the files are not there it moves on.  
+
+.For pre-ver3.0, it deletes all files and folders, under the props folder, named Letters_* or Symbols_* .
+
+.For 3.0 to 4.0, it removes all files and folders, under the props\Labels folder, named Letters_* or Symbols_* .
+
+.WingDings are simply removed; there was no version difference until now.
+
+.All of the old Font and WingDing files will cause issues, so please remove them all.
+
+I have removed all fonts from the distribution zip file, except the dev supplied ones, until I have a chance to fix them.  You should note that my fonts have a large "pologon count" (meaning that they have a pretty big performance impact) so you're better off using the Orbitron font, anyway.  I probably won't bring back the Cambridge version as it has the highest hit.
+
+
+
+  https://steamcommunity.com/app/488040/discussions/ 
      
- If you are comfortable using Windows Explorer, navigate to the VRToolbox props directory and remove all folders starting with "Letters_" and all folders starting with "Symbols_".  You can verify that your new Letters and Symbols are now in a folder called "Labels" in the props directory.
+
 
 ---------
 
