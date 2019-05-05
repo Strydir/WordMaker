@@ -48,28 +48,32 @@ To see your Words:
 
 -navigate back to 'Documents\My Games\VR Toolbox\save\Words.room'
 
-Once in VR with your new Words, you can resize or reposition them by grabbing the first character and using the ingame thumbpad buttons.						
+						
 If VRToolbox is NOT running, you can write directly to the Session Room so that your Words will be there the next time that you enter VRToolbox.
 
+Once in VR with your new Words, you can resize or reposition them by grabbing the first character and using the ingame thumbpad buttons.
+
+Put up a label or lines of text, place a WingDing, like a ThumbsUp, where you want it. Then link/lock the WingDing to the first letter of your text and the WingDing will now move and resize with the rest of the text.
+
 I've added a rudimentary Glossary text file called 'RudimentaryGlossary' to help explain what the values are and what they do, but you'll need to experiment.  Don't forget to upload some screen shots of what you do!
+
+Atm, there's only one font and the initial spacing values are pre-loaded into the config.ini file.  Spacing is a little different for everyone, so expect to tweak them.
 
 
 Notes and limitations:  
 
-The performance impact has not yet been evaluated.  I'm not seeing any, but I'm not writing more than a few lines.
+The performance impact on the dev supplied Orbitron font is minimal but my fonts have a performance hit.  When I've got them repaired and available again, you'll need to take it easy when using them.   
+
 Letter objects are 'Universal'.  Any changes to 'font' or color will be applied to ALL letters, no matter what room they've been saved to.
 
 All values need to be in '0.0' format.  Meaning that there must always be a number on both sides of the decimal point.  I'll be cleaning this up soon.
 
-Letter spacing needed depends on the font being used.  I've included a text file called 'Letter Spacing' that has the values that I've used.  They'll get you close but you'll probably want to tweak them.
+Letter spacing needed depends on the font being used.  I've included a text file called 'Letter Spacing' that has the values that I've used.  They'll get you close but you'll probably want to tweak them.  -currently not needed as there's only one font and the initial values are pre-loaded from the ini file.
 
-Letter spacing, once written, stays with those Words no matter what font or color that you change to.  If you have Cambria Words and change to Comic font, the spacing will be off.  You will need to re-write your words using different spacing.  In time, I will probably modify the letters so that all fonts are the same size, but it's tedious work at best and I'm still waiting to see what the dev's will offer.  I'd like to have "native" support for their stuff first.
+Letter spacing, once written, stays with those Words no matter what font or color that you change to. If you want to change the spacing, you need to re-write your words using different spacing.  
 
-Certain symbols are missing: (caret: ^) (double quotes: ") (tilde: ~) (pipe: |).  I'll add them if there are any requests for them. 
+We've added entries from the  "WingDings" and "WebDings" fonts.  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see the button in program) Includes a Happy Face, pointers, a few lines of different sizes and some other things.  I hope to add more in time. You can use this app to change their color. 
 
-Certain symbols were not included with the Archivo_Black font used:  I've subbed in Cambria versions.
-
-I've added entries from the  "WingDings" and "WebDings" fonts.  Find them in the "Props" menu in VRToolbox.  (After you've copied them: see prompts) Includes a Happy Face, pointers and a few other things.  I plan to add more, including general purpose lines. You can use this app to change their color. 
 
 
 Keep in mind that you need to restart VRToolbox to see any changes to color or fonts!
