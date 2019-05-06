@@ -14,7 +14,7 @@ If you've used an older version of this program, you need to remove all Fonts an
 
 .All of the old Font and WingDing files will cause issues, so please remove them all.
 
-I have removed all fonts from the distribution zip file, except the dev supplied ones, until I have a chance to fix them.  You should note that my fonts have a large "pologon count" (meaning that they have a pretty big performance impact) so you're better off using the Orbitron font, anyway.  I probably won't bring back the Cambridge version as it has the highest hit.
+I have removed 2 fonts from the distribution zip file,  until I have a chance to fix them.  I have repaired the Comic Font and it's now available along with the dev supplied Orbitron Font.  However, you should note that my fonts have a large "pologon count" (meaning that they have a pretty big performance impact) so you're better off using the Orbitron font.  I expect to bring back the Archivo_Black font after I've had a chance to build some missing symbols for it.   I probably won't bring back the Cambridge version as it has the highest hit.
 
 
 
@@ -62,13 +62,13 @@ Atm, there's only one font and the initial spacing values are pre-loaded into th
 
 Notes and limitations:  
 
-The performance impact on the dev supplied Orbitron font is minimal but my fonts have a performance hit.  When I've got them repaired and available again, you'll need to take it easy when using them.   
+The performance impact on the dev supplied Orbitron font is minimal but my fonts have a performance hit. You'll need to take it easy when using them.   
 
 Letter objects are 'Universal'.  Any changes to 'font' or color will be applied to ALL letters, no matter what room they've been saved to.
 
 All values need to be in '0.0' format.  Meaning that there must always be a number on both sides of the decimal point.  I'll be cleaning this up soon.
 
-Letter spacing needed depends on the font being used.  I've included a text file called 'Letter Spacing' that has the values that I've used.  They'll get you close but you'll probably want to tweak them.  -currently not needed as there's only one font and the initial values are pre-loaded from the ini file.
+Letter spacing needed depends on the font being used.  I've included a text file called 'Letter Spacing' that has the values that I've used.  They'll get you close but you'll probably want to tweak them.  
 
 Letter spacing, once written, stays with those Words no matter what font or color that you change to. If you want to change the spacing, you need to re-write your words using different spacing.  
 
