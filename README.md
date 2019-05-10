@@ -57,7 +57,6 @@ Put up a label or lines of text, place a WingDing, like a ThumbsUp, where you wa
 
 I've added a rudimentary Glossary text file called 'RudimentaryGlossary' to help explain what the values are and what they do, but you'll need to experiment.  Don't forget to upload some screen shots of what you do!
 
-Atm, there's only one font and the initial spacing values are pre-loaded into the config.ini file.  Spacing is a little different for everyone, so expect to tweak them.
 
 
 Notes and limitations:  
