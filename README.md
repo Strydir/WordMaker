@@ -78,5 +78,5 @@ We've added entries from the  "WingDings" and "WebDings" fonts.  Find them in th
 Keep in mind that you need to restart VRToolbox to see any changes to color or fonts!
 
 PM me if you have any issues or requests at:  https://www.reddit.com/message/compose/?to=Stridyr
-- at least, I think that will work.  I hope...
+at least, I think that will work.  I hope...
 
