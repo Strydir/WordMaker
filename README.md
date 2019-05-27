@@ -2,7 +2,7 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
-5/27/19 Added 'Caution Tape'!  Download the zip file and drop it directly into your VRToolbox\props directory.  Restart VRToolbox (if it's running) to see the new 'Caution Tape' selection in your props menu.  The longer lines can be hard to grab: bring the menu close and grab from underneath works best for me.
+5/27/19 Added 'Caution Tape'!  Download the zip file and drop it directly into your VRToolbox\props directory -do NOT unzip.  Restart VRToolbox (if it's running) to see the new 'Caution Tape' selection in your props menu.  The longer lines can be hard to grab: bring the menu close and grab from underneath works best for me.
 
 NOTE: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder, and the file structure of all Letters, Symbols and WingDings has changed!
 
