@@ -2,6 +2,8 @@
 
 Note that this is an "alpha" version of this app.  I expect to make a lot of changes and there are probably still a lot of ways to break it.  However, it should be functional enough to use.
 
+Added 'Caution Tape'!  Download the zip file and drop it directly into your VRToolbox\props directory.  Restart VRToolbox (if it's running) to see the new 'Caution Tape' selection in your props menu.  The longer lines can be hard to grab: bring the menu close and grab from underneath works best for me.
+
 NOTE: the Letters and Symbols have been moved to a subdirectory to keep from cluttering the Props folder, and the file structure of all Letters, Symbols and WingDings has changed!
 
 If you've used an older version of this program, you need to remove all Fonts and WingDings.  I have provided a file to do this for you called 'MakerCleaner.exe'.  Download it and run it from anywhere.  It will ask you where your VRToolbox directory is and prompt you for the different versions to delete.  Feel free to do so if you're not sure: if the files are not there then it moves on.  
